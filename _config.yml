@@ -65,7 +65,7 @@ author:
   links:
     - label: "LinkedIn"
       icon: "fas fa-fw fa-link"
-      url: sitle.linkedin_link
+      url: site.linkedin_link
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: {{site.github_link}}
