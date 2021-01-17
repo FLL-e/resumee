@@ -16,11 +16,11 @@
 title: Francisco Luque Luque
 email: 
 description: >- # this means to ignore newlines until "baseurl:"
-  Francisco Luque Luque resumee
+  Here you can find my resumee
 twitter_username: username
 github_username: FLL-e
 minimal_mistakes_skin: sunrise
-search: true
+search: false
 
 # Build settings
 markdown: kramdown
@@ -62,7 +62,7 @@ author:
   links:
     - label: "LinkedIn"
       icon: "fas fa-fw fa-link"
-      url: "linkedin.com/in/francisco-luque-luque"
+      url: "https://linkedin.com/in/francisco-luque-luque"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/FLL-e"
@@ -71,7 +71,7 @@ footer:
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "linkedin.com/in/francisco-luque-luque"
+      url: "https://linkedin.com/in/francisco-luque-luque"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/FLL-e"
