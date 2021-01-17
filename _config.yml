@@ -65,10 +65,10 @@ author:
   links:
     - label: "LinkedIn"
       icon: "fas fa-fw fa-link"
-      url: {site.linkedin_link}
+      url: "https://linkedin.com/in/francisco-luque-luque"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: {{site.github_link}}
+      url: "https://github.com/FLL-e"
 
 footer:
   links:
