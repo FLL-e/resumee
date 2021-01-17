@@ -1,6 +1,7 @@
 
 I'm an industrial electronic engineer and, as electronic, I like hardware! But software and firmware have always been there because digital electronics is what appealed to me from the beginning. Based on that, I like to work maintaining contact with HW and its design at the same time that I'm involved in its FW development
 
+
 # Experience
 
 ## FEMA electrónica _(Oct 2019 – nowadays)_
@@ -29,9 +30,9 @@ Final degree project in collab with mechanical department. Power and control box
 -	“Introducción a la visión por computador”, Altran. _8h, May 2018_
 
 # Languages
-- **Español**	Lengua materna
-- **English**	Non updated certification, I’m willing to show you my skills on conversation and writing reports
-- **Deutsch**	Ich lerne es. Mein Niveau ist sehr niedrig. Als Bezug habe ich das CEFR Niveau A2 in meine Erasmus Bewertung bekommen (elektronisches Praktikumsprogramm, _oct – dec 2017_)
+- **Español**:	Lengua materna
+- **English**:	Non updated certification, I’m willing to show you my skills on conversation and writing reports
+- **Deutsch**:	Ich lerne es. Mein Niveau ist sehr niedrig. Als Bezug habe ich das CEFR Niveau A2 in meine Erasmus Bewertung bekommen (elektronisches Praktikumsprogramm, _oct – dec 2017_)
 
 # Other IT skills
 - **Soldering** (TH and SMD components)
@@ -42,6 +43,6 @@ Final degree project in collab with mechanical department. Power and control box
 - **Matlab and simulink**: Simulink toolbox for Control engineering, and matlab IDE used in different areas during my degree studies (from mech and maths to solve problem with numerical methods to image steganography)
 
 ### More info
-Currently I'm living in town next to Barcelona
+
 
 [LinkedIn](linkedin.com/in/francisco-luque-luque)
