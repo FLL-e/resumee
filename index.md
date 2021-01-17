@@ -1,37 +1,46 @@
-## Welcome to GitHub Pages
+## Welcome to my resumee
 
-You can use the [editor on GitHub](https://github.com/FLL-e/resumee2/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+I'm an industrial electronic engineer and, as electronic, I like hardware! But software and firmware have always been there because digital electronics is what appealed to me from the beginning. Based on that, I like to work maintaining contact with HW and its design at the same time that I'm involved in its FW development
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Experience
 
-### Markdown
+## FEMA electrónica _(Oct 2019 – nowadays)_
+Electronic engineer (R&D). Instrumentation equipment development.
+- Electronic schematics and PCB design (Altium, kiCad)
+- Embedded FW development (MICROCHIP PIC18, CSS C compiler, TortoiseSVN...)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Altran
+### HWQA at HP _(Feb 2019 – Oct 2019)_
+Testing and validating the System Errors and Diagnosis of large format printers, designing and triggering electronic hardware malfunctions on their PCBs 
 
-```markdown
-Syntax highlighted code block
+### R&D internship (EILIS department) _(Feb 2018 – Feb 2019)_
+R&D internship inside EILIS department, where I worked in 3 projects playing a different technical roll in each one
 
-# Header 1
-## Header 2
-### Header 3
+## UCO: cooling tower control
+Final degree project in collab with mechanical department. Power and control box for an experimental cooling tower 
 
-- Bulleted
-- List
+# Education and training 
+-	Industrial Electronic Engineering bachelor at the University of Córdoba _(2012 – 2017)_
+-	“Introducción al diseño PCB Parte I y II”, Altran. _16h, Jun 2018_
+-	“Diseño electrónico orientado a EMC/EMI. Diseño PCB, cumplimiento normativo y validación”, Altran. _18h, Oct 2018_
+-	“Curso de introducción a la programación en ROS”, OpenWebinars. _30h, Aug 2019_
+-	“MOOC Procesos de prueba ISTQB”, Altran. _21h, May 2018_
+-	“Introducción a la programación paralela”, Altran. _12h, Oct 2018_
+-	“Introducción a la visión por computador”, Altran. _8h, May 2018_
 
-1. Numbered
-2. List
+# Languages
+- **Español**	Lengua materna
+- **English**	Non updated certification, I’m willing to show you my skills on conversation and writing reports
+- **Deutsch**	Ich lerne es. Mein Niveau ist sehr niedrig. Als Bezug habe ich das CEFR Niveau A2 in meine Erasmus Bewertung bekommen (elektronisches Praktikumsprogramm, _oct – dec 2017_)
 
-**Bold** and _Italic_ and `Code` text
+# Other IT skills
+- **Soldering** (TH and SMD components)
+- **Scripting** languages as Python, tcl, bash… and some Linux knowledge
+- **VHDL**: ispLEVER tool and Xilinx’s ISE tool to create components in PLDs and FPGAs
+- **PLCs**: I programmed in STL, SCL and S7-graph using STEP 7 software for SIMATIC S7-300. Knowledge about HMI design
+- **Communications**: intra-system communication protocols (I2C, SPI) and real-time bus communication (CAN). For PLCs, PROFIBUS DP, Industrial Ethernet, PROFINET 
+- **Matlab and simulink**: Simulink toolbox for Control engineering, and matlab IDE used in different areas during my degree studies (from mech and maths to solve problem with numerical methods to image steganography)
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/FLL-e/resumee2/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### More info
+Currently I'm living in town next to Barcelona
+[LinkedIn](linkedin.com/in/francisco-luque-luque)
