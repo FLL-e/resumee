@@ -64,7 +64,7 @@ author:
   bio    : "Industrial-Electronics engineer"
   links:
     - label: "LinkedIn"
-      icon: "fas fa-fw fa-link"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://linkedin.com/in/francisco-luque-luque"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
