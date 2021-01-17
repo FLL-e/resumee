@@ -60,23 +60,17 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Industrial-Electronics engineer"
   links:
-    - label: "Website"
+    - label: "LinkedIn"
       icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "linkedin.com/in/francisco-luque-luque"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
 
 footer:
   links:
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin-square"
+      icon: "fab fa-fw fa-linkedin"
       url: "linkedin.com/in/francisco-luque-luque"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
