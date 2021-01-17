@@ -20,3 +20,5 @@ Motors involved:
 - Spray pumps. They control the flow of water that is throwed to the heat exchanger pipes lines and with evaporation extrat the heat from the target fluid
 
 The project was developed using Arduino platform to increase accessibility and ease of modification for the mechanical department.
+
+You can download the [project documentation from here](https://www.dropbox.com/s/n6h6rqpq7n540p1/TFG_F_Luque.pdf?dl=0)
