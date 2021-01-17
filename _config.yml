@@ -23,6 +23,7 @@ minimal_mistakes_skin: sunrise
 search: false
 github_link: "https://github.com/FLL-e"
 linkedin_link: "https://linkedin.com/in/francisco-luque-luque"
+web_link: "https://fll-e.github.io/resumee2/"
 
 # Build settings
 markdown: kramdown
@@ -64,10 +65,10 @@ author:
   links:
     - label: "LinkedIn"
       icon: "fas fa-fw fa-link"
-      url: linkedin_link
+      url: sitle.linkedin_link
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: github_link
+      url: {{site.github_link}}
 
 footer:
   links:

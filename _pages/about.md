@@ -9,6 +9,25 @@ I'm an industrial electronic engineer and, as electronic, I like hardware! But s
 
 Currently I'm living in town next to Barcelona
 
+# Languages
+- **Español**:	Lengua materna
+- **English**:	Non updated certification, I’m willing to show you my skills on conversation and writing reports
+- **Deutsch**:	Ich lerne es. Mein Niveau ist sehr niedrig. Als Bezug habe ich das CEFR Niveau A2 in meine Erasmus Bewertung bekommen (elektronisches Praktikumsprogramm, _oct – dec 2017_)
+
+# Recurrent skills I use in my current work
+- Agile hardware development in PCB design (Altium)
+- Embedded development (C programming on microchip PIC18F, doxygen documentation, TortoiseSVN version control)
+- Soldering SMD components
+- Project requirements acquisition, electronic components selection, project version control and documentation 
+
+# Other IT skills
+- **Soldering** (TH and SMD components)
+- **Scripting** languages as Python, tcl, bash… and some Linux knowledge
+- **VHDL**: ispLEVER tool and Xilinx’s ISE tool to create components in PLDs and FPGAs
+- **PLCs**: I programmed in STL, SCL and S7-graph using STEP 7 software for SIMATIC S7-300. Knowledge about HMI design
+- **Communications**: intra-system communication protocols (I2C, SPI) and real-time bus communication (CAN). For PLCs, PROFIBUS DP, Industrial Ethernet, PROFINET 
+- **Matlab and simulink**: Simulink toolbox for Control engineering, and matlab IDE used in different areas during my degree studies (from mech and maths to solve problem with numerical methods to image steganography)
+
 # Education and training 
 -	Industrial Electronic Engineering bachelor at the University of Córdoba _(2012 – 2017)_
 -	“Introducción al diseño PCB Parte I y II”, Altran. _16h, Jun 2018_
@@ -18,15 +37,5 @@ Currently I'm living in town next to Barcelona
 -	“Introducción a la programación paralela”, Altran. _12h, Oct 2018_
 -	“Introducción a la visión por computador”, Altran. _8h, May 2018_
 
-# Languages
-- **Español**:	Lengua materna
-- **English**:	Non updated certification, I’m willing to show you my skills on conversation and writing reports
-- **Deutsch**:	Ich lerne es. Mein Niveau ist sehr niedrig. Als Bezug habe ich das CEFR Niveau A2 in meine Erasmus Bewertung bekommen (elektronisches Praktikumsprogramm, _oct – dec 2017_)
 
-# Other IT skills
-- **Soldering** (TH and SMD components)
-- **Scripting** languages as Python, tcl, bash… and some Linux knowledge
-- **VHDL**: ispLEVER tool and Xilinx’s ISE tool to create components in PLDs and FPGAs
-- **PLCs**: I programmed in STL, SCL and S7-graph using STEP 7 software for SIMATIC S7-300. Knowledge about HMI design
-- **Communications**: intra-system communication protocols (I2C, SPI) and real-time bus communication (CAN). For PLCs, PROFIBUS DP, Industrial Ethernet, PROFINET 
-- **Matlab and simulink**: Simulink toolbox for Control engineering, and matlab IDE used in different areas during my degree studies (from mech and maths to solve problem with numerical methods to image steganography)
+

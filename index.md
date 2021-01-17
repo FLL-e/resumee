@@ -1,4 +1,4 @@
-Hello, **welcome to my resumee!*
+Hello, **welcome to my resumee!**
 
 Below you can see my professional. In the page [about](/about/) you can find more info about my education and skills, and in [projects](/projects/) you can find some work I have done (professional and personal) 
 
