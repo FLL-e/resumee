@@ -3,17 +3,15 @@
 I'm an industrial electronic engineer and, as electronic, I like hardware! But software and firmware have always been there because digital electronics is what appealed to me from the beginning. Based on that, I like to work maintaining contact with HW and its design at the same time that I'm involved in its FW development
 
 # Experience
-
 ## FEMA electrónica _(Oct 2019 – nowadays)_
 Electronic engineer (R&D). Instrumentation equipment development.
 - Electronic schematics and PCB design (Altium, kiCad)
 - Embedded FW development (MICROCHIP PIC18, CSS C compiler, TortoiseSVN...)
-
 ## Altran
-### HWQA at HP _(Feb 2019 – Oct 2019)_
+###   HWQA at HP _(Feb 2019 – Oct 2019)_
 Testing and validating the System Errors and Diagnosis of large format printers, designing and triggering electronic hardware malfunctions on their PCBs 
 
-### R&D internship (EILIS department) _(Feb 2018 – Feb 2019)_
+###   R&D internship (EILIS department) _(Feb 2018 – Feb 2019)_
 R&D internship inside EILIS department, where I worked in 3 projects playing a different technical roll in each one
 
 ## UCO: cooling tower control
@@ -43,4 +41,5 @@ Final degree project in collab with mechanical department. Power and control box
 
 ### More info
 Currently I'm living in town next to Barcelona
+
 [LinkedIn](linkedin.com/in/francisco-luque-luque)
