@@ -15,5 +15,5 @@ I worked in Altran collaborating with Eyefoil developing [Naia](https://www.elco
 
 I worked modelling some subsystems and debugging the Simulink model of the boat. In the area of control, I developed (designed and run several simulations) of the algorithm for the boat stabilization. The actuators were the angles of attack of the hydrofoils.
 
-Part of this time **I was working in 3 projects simultaneously**. 
+
 
