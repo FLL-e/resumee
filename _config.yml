@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Francisco Luque Luque resumee
 twitter_username: username
 github_username: FLL-e
-minimal_mistakes_skin: default
+minimal_mistakes_skin: sunrise
 search: true
 
 # Build settings
@@ -29,7 +29,7 @@ remote_theme: mmistakes/minimal-mistakes
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: ES # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 include:
   - _pages
@@ -51,7 +51,7 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
-  - jekyll-feed
+  #- jekyll-feed
   - jemoji
   - jekyll-include-cache
 
@@ -65,7 +65,7 @@ author:
       url: "linkedin.com/in/francisco-luque-luque"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/FLL-e"
 
 footer:
   links:
@@ -74,7 +74,7 @@ footer:
       url: "linkedin.com/in/francisco-luque-luque"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/fll-e"
+      url: "https://github.com/FLL-e"
 
 defaults:
   # _posts
@@ -83,7 +83,7 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       read_time: true
       comments: true
       share: true
@@ -94,7 +94,7 @@ defaults:
       type: pages
     values:
       layout: single
-      author_profile: true
+      author_profile: false
 
 category_archive:
   type: liquid
