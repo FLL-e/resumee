@@ -1,5 +1,5 @@
 ---
-title: "Collab with Hyperloop proposal"
+title: "Hyperloop"
 last_modified_at: 2018-12-01T00:00:00
 categories:
   - Work

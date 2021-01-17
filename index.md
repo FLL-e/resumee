@@ -20,6 +20,6 @@ Testing and validating the System Errors and Diagnosis of large format printers,
 ### R&D internship (EILIS department) _(Feb 2018 – Feb 2019)_
 R&D internship inside EILIS department, where I worked in 3 projects playing a different technical roll in each one
 
-## UCO: cooling tower control
+## UCO: cooling tower control _(2017)_
 Final degree project in collab with mechanical department. Power and control box for an experimental cooling tower 
 
