@@ -1,3 +1,8 @@
+---
+header:
+  teaser: /assets/images/bio-photo.jpg
+  image: /assets/images/bio-photo.jpg
+---
 Hello, **welcome to my resumee!**
 
 Below you can see my professional working experience. In the page [about](about/) you can find more info about my education and skills, and in [projects](posts/) you can find some work I have done (professional and personal) 
