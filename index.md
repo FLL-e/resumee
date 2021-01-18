@@ -1,7 +1,6 @@
 ---
 header:
   teaser: /assets/images/bio-photo.jpg
-  image: /assets/images/bio-photo.jpg
 ---
 Hello, **welcome to my resumee!**
 
