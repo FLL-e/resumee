@@ -24,7 +24,9 @@ search: false
 github_link: "https://github.com/FLL-e"
 linkedin_link: "https://linkedin.com/in/francisco-luque-luque"
 web_link: "https://fll-e.github.io/resumee2/"
-
+header:
+  teaser: /assets/images/bio-photo.jpg
+  
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
