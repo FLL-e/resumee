@@ -5,6 +5,8 @@ categories:
   - Work
 tags:
   - Altran
+header:
+  teaser: /assets/images/naia-eyefoil.jpg
 ---
 
 **DATE** 2018

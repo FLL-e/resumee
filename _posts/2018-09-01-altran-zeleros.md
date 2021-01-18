@@ -5,6 +5,8 @@ categories:
   - Work
 tags:
   - Altran
+header:
+  teaser: /assets/images/reunionZeleros.png
 ---
 
 **DATE** Third quarter of 2018

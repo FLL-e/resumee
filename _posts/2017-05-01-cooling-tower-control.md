@@ -6,6 +6,8 @@ categories:
 tags:
   - TFG
   - Arduino
+header:
+  teaser: /assets/images/controlbox.png
 ---
 
 **DATE** from may to sep of 2017
