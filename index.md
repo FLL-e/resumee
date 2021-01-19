@@ -7,8 +7,9 @@ Hello, **welcome to my resumee!**
 
 Below you can see my professional working experience. In the page [about](about/) you can find more info about my education and skills, and in [projects](posts/) you can find some work I have done (professional and personal) 
 
-Don't hesitate on contacting me! 
+Don't hesitate on contacting me! BTW: You can also download my CV in .pdf
 
+[Contact](https://www.linkedin.com/in/francisco-luque-luque/){: .btn .btn--info}
 
 # Working Experience
 
