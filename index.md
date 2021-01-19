@@ -8,6 +8,8 @@ Hello, **welcome to my resumee!**
 
 <a href="#" class="notice notice--warning">Notice this site is still being developed (last update 19/01/21)</a>
 
+<a href="#" class="notice">Notice this site is still being developed (last update 19/01/21)</a>
+
 
 Below you can see my professional working experience. In the page [about](about/) you can find more info about my education and skills, and in [projects](posts/) you can find some work I have done (professional and personal) 
 
