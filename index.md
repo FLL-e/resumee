@@ -6,7 +6,7 @@ header:
 Hello, **welcome to my resumee!**
 
 
-<a href="#" class="notice notice--warning">Notice this site is still being developed (last update 19/01/21)</a>
+<p href="#" class="notice notice--warning">Notice this site is still being developed (last update 19/01/21)</p>
 
 <a href="#" class="notice">Notice this site is still being developed (last update 19/01/21)</a>
 
