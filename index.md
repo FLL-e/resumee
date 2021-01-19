@@ -9,7 +9,7 @@ Below you can see my professional working experience. In the page [about](about/
 
 Don't hesitate on contacting me! BTW: You can also download my CV in .pdf
 
-[Contact](https://www.linkedin.com/in/francisco-luque-luque/){: .btn .btn--info .align-center} [Download](https://www.dropbox.com/s/s2i1vgbu53w7xav/202011_CV_Francisco_Luque_general_eng.pdf?dl=0){: .btn .btn--success}
+[Contact](https://www.linkedin.com/in/francisco-luque-luque/){: .btn .btn--info} [Download](https://www.dropbox.com/s/s2i1vgbu53w7xav/202011_CV_Francisco_Luque_general_eng.pdf?dl=0){: .btn .btn--success}
 
 # Working Experience
 
