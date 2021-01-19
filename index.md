@@ -5,6 +5,8 @@ header:
 ---
 Hello, **welcome to my resumee!**
 
+Notice this site is still being developed (last update 19/01/21) {: .notice--warning}
+
 Below you can see my professional working experience. In the page [about](about/) you can find more info about my education and skills, and in [projects](posts/) you can find some work I have done (professional and personal) 
 
 Don't hesitate on contacting me! BTW: You can also download my CV in .pdf
