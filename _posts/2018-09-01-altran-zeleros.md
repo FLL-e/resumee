@@ -7,6 +7,7 @@ tags:
   - Altran
 header:
   teaser: /assets/images/reunionZeleros.png
+  image: /assets/images/reunionZeleros.png
 ---
 
 **DATE** Third quarter of 2018
