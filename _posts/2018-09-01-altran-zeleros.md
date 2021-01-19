@@ -16,9 +16,8 @@ This was exciting. We were collaborating with Zeleros, a spanish company that is
 
 I participated in the first stages of development of this new high-speed method of transport, in the areas of communication, power and instrumentation, writing some of the technical documentation, guidelines and proposals for the development
 
-![Reunión equipo altran-Zeleros Hyperloop](https://fll-e.github.io/resumee/assets/images/reunionZeleros.png)
+During this time **I was working in 3 projects simultaneously**. But look at that happy face tho
 
-During this time **I was working in 3 projects simultaneously**. 
-
+![Reunión equipo altran-Zeleros Hyperloop](https://fll-e.github.io/resumee/assets/images/happyWithZeleros.JPG)
 
 
