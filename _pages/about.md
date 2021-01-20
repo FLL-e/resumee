@@ -14,8 +14,6 @@ Currently I'm living in town next to Barcelona
 - **English**:	Non updated certification, I’m willing to show you my skills on conversation and writing reports
 - **Deutsch**:	Ich lerne es. Mein Niveau ist sehr niedrig. Als Bezug habe ich das CEFR Niveau A2 in meine Erasmus Bewertung bekommen (elektronisches Praktikumsprogramm, _oct – dec 2017_)
 
-
-
 # IT/engineering skills
 - **Soldering** (TH and SMD components)
 - **Scripting** languages as Python, tcl, bash… and some Linux knowledge
@@ -33,5 +31,9 @@ Currently I'm living in town next to Barcelona
 -	“Introducción a la programación paralela”, Altran. _12h, Oct 2018_
 -	“Introducción a la visión por computador”, Altran. _8h, May 2018_
 
+# That's for now
+Hope you enjoy, feel free to reach me to share synergias!
+
+![greetings](/assets/images/regards_FLL.jpg)
 
 

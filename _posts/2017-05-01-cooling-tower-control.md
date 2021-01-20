@@ -7,7 +7,7 @@ tags:
   - TFG
   - Arduino
 header:
-  teaser: /assets/images/controlbox.png
+  teaser: /assets/images/control_box.png
 ---
 
 **DATE** from may to sep of 2017
