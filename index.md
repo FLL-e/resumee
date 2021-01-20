@@ -1,5 +1,6 @@
 ---
 header:
+  overlay_image: /assets/images/intro_overlay.jpg
   teaser: /assets/images/bio-photo.jpg
   og_image: /assets/images/bio-photo.jpg
 ---
