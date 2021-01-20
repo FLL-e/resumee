@@ -5,23 +5,23 @@ header:
 ---
 Hello, **welcome to my resumee!**
 
-<p href="#" class="notice notice--warning">Notice this site is still being developed (last update 19/01/21)</p>
+<p href="#" class="notice notice--warning">Notice this site is still being developed (last update 20/01/21)</p>
 
 
 Below you can see my professional working experience. In the page [about](about/) you can find more info about my education and skills, and in [projects](posts/) you can find some work I have done (professional and personal) 
 
-Don't hesitate on contacting me! BTW: You can also download my CV in .pdf
+Don't hesitate on contacting me! _BTW: You can also download my CV in .pdf_
 
 [Contact](https://www.linkedin.com/in/francisco-luque-luque/){: .btn .btn--info} [Download](https://www.dropbox.com/s/s2i1vgbu53w7xav/202011_CV_Francisco_Luque_general_eng.pdf?dl=0){: .btn .btn--success}
 
-# Recurrent skills I use in my current work
+# Recurrent skills I use in my job
 - Agile hardware development in PCB design (Altium)
 	- SVN version control (with TortoiseSVN)
 - Embedded development 
 	- C programming on microchip PIC18F 
 	- doxygen documentation 
 	- GIT version control (with GitHub)
-- Soldering SMD components
+- Some SMD soldering
 - Project requirements acquisition, electronic components selection, project documentation generation
 
 # Working Experience
@@ -40,7 +40,7 @@ Testing and validating the System Errors and Diagnosis of large format printers,
 R&D internship inside EILIS department, where I worked in 3 projects playing a different technical roll in each one [--->](https://fll-e.github.io/resumee/tags/#altran)
 
 ## UCO: cooling tower control _(2017)_
-Final degree project in collab with mechanical department. Power and control box for an experimental cooling tower [--->]()
+Final degree project in collab with mechanical department. Power and control box for an experimental cooling tower [--->](https://fll-e.github.io/resumee/work/cooling-tower-control/)
 
 
-<p href="#" class="notice notice--info"> Notice this site doesn't use any cookies, so you didn't get any disturbing pop-up to accept them. I'm preparing a post telling you how to avoid those pop-ups and auto-reject cookies </p>
+<p href="#" class="notice notice--info"> Notice this site doesn't use any cookies, so you didn't get any disturbing pop-up to accept them. I have in mind a post telling you how to avoid those pop-ups and auto-reject cookies </p>

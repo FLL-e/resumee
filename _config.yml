@@ -16,14 +16,13 @@
 title: Francisco Luque Luque
 email: 
 description: >- # this means to ignore newlines until "baseurl:"
-  Here you can find my resumee
-twitter_username: username
+  An interactive version of my resumee
 github_username: FLL-e
 minimal_mistakes_skin: sunrise
 search: false
 github_link: "https://github.com/FLL-e"
 linkedin_link: "https://linkedin.com/in/francisco-luque-luque"
-web_link: "https://fll-e.github.io/resumee2/"
+web_link: "https://fll-e.github.io/resumee/"
 
  
   
