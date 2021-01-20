@@ -14,13 +14,9 @@ Currently I'm living in town next to Barcelona
 - **English**:	Non updated certification, I’m willing to show you my skills on conversation and writing reports
 - **Deutsch**:	Ich lerne es. Mein Niveau ist sehr niedrig. Als Bezug habe ich das CEFR Niveau A2 in meine Erasmus Bewertung bekommen (elektronisches Praktikumsprogramm, _oct – dec 2017_)
 
-# Recurrent skills I use in my current work
-- Agile hardware development in PCB design (Altium)
-- Embedded development (C programming on microchip PIC18F, doxygen documentation, TortoiseSVN version control)
-- Soldering SMD components
-- Project requirements acquisition, electronic components selection, project version control and documentation 
 
-# Other IT skills
+
+# IT/engineering skills
 - **Soldering** (TH and SMD components)
 - **Scripting** languages as Python, tcl, bash… and some Linux knowledge
 - **VHDL**: ispLEVER tool and Xilinx’s ISE tool to create components in PLDs and FPGAs
