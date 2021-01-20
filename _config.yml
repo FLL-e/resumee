@@ -62,7 +62,7 @@ plugins:
 author:
   name   : "Francisco Luque"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Industrial-Electronics engineer"
+  bio    : "Industrial Electronic engineer"
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
@@ -92,6 +92,7 @@ defaults:
       comments: true
       share: false
       related: true
+      og_image: /assets/images/bio-photo.jpg
   # _pages
   - scope:
       path: "_pages"
@@ -99,6 +100,7 @@ defaults:
     values:
       layout: single
       author_profile: false
+      og_image: /assets/images/bio-photo.jpg
 
 category_archive:
   type: liquid
