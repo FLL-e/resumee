@@ -31,7 +31,7 @@ Currently I'm living in town next to Barcelona
 -	“Introducción a la programación paralela”, Altran. _12h, Oct 2018_
 -	“Introducción a la visión por computador”, Altran. _8h, May 2018_
 
-# That's for now
+# That's is it _for now_
 Hope you enjoy, feel free to reach me to share synergies!
 
 ![greetings](https://fll-e.github.io/resumee/assets/images/regards_FLL.jpg)
