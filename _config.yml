@@ -63,6 +63,7 @@ author:
   name   : "Francisco Luque"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Industrial Electronic engineer"
+  location: BCN Area
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
