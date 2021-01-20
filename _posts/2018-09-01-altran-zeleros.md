@@ -20,6 +20,6 @@ There were very interesting and motivated people pushing this project, I really 
 
 During this time **I was working in 3 projects simultaneously**. But look at that happy face tho
 
-![Reunión equipo altran-Zeleros Hyperloop](https://fll-e.github.io/resumee/assets/images/happyWithZeleros.JPG)
+![Reunión equipo altran-Zeleros Hyperloop](https://fll-e.github.io/resumee/assets/images/happyWithZeleros.JPG){: .align-center}
 
 
