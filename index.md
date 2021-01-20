@@ -1,7 +1,7 @@
 ---
 header:
   overlay_image: /assets/images/intro_overlay.jpg
-  excerpt: FRANCISCO LUQUE LUQUE
+  headline: FRANCISCO LUQUE LUQUE
   overlay_filter: 0.5
   teaser: /assets/images/bio-photo.jpg
   og_image: /assets/images/bio-photo.jpg
