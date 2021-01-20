@@ -1,5 +1,5 @@
 ---
-excerp: FRANCISCO LUQUE LUQUE
+tagline: FRANCISCO LUQUE LUQUE
 header:
   overlay_image: /assets/images/intro_overlay.jpg
   overlay_filter: 0.1
