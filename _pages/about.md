@@ -34,6 +34,6 @@ Currently I'm living in town next to Barcelona
 # That's for now
 Hope you enjoy, feel free to reach me to share synergias!
 
-![greetings](/assets/images/regards_FLL.jpg)
+![greetings](assets/images/regards_FLL.jpg)
 
 
