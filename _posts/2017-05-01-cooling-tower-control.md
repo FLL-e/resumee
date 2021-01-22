@@ -23,12 +23,12 @@ Motors involved:
 - Fluid pump. Water was the target fluid to refrigerate and this pump allowed to control its flow
 - Spray pumps. They control the flow of water that is throwed to the heat exchanger pipes lines and with evaporation extrat the heat from the target fluid
 
-| Sensors | N |
-| :-----: | :---:
+| Sensors     | N |
+| -----------:|:-:|
 | Temperature | 6 | 
-| Flow | 2 |
-| Humidity | 4 |
-| Pressure | 6 |
+| Flow        | 2 |
+| Humidity    | 4 |
+| Pressure    | 6 |
 | Fluid level | 2 |
 
 The project was developed using Arduino platform to increase accessibility and ease of modification for the mechanical department.
