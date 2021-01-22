@@ -24,7 +24,7 @@ Motors involved:
 - Spray pumps. They control the flow of water that is throwed to the heat exchanger pipes lines and with evaporation extrat the heat from the target fluid
 
 
-| N | Sensors     |
+| N | Sensor type |
 |:-:| :-----------|
 | 6 | Temperature |
 | 2 | Flow        |
@@ -35,6 +35,8 @@ Motors involved:
 
 The project was developed using Arduino platform to increase accessibility and ease of modification for the mechanical department.
 
-You can download the [project documentation from here](assets/downloads/TFG_F_Luque.pdf)
+Here you can see the power box I did to control the motor. It looks a bit messy but there was no budget nor time for PCB...
 
 ![Power box](/resumee/assets/images/control_box.png){: .align-center}
+
+You can download the project documentation from [here](assets/downloads/TFG_F_Luque.pdf)
