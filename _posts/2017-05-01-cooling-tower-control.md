@@ -7,6 +7,7 @@ tags:
   - TFG
   - Arduino
 header:
+  overlay_image: /assets/images/tfg_placas.jpg
   teaser: /assets/images/control_box.png
 ---
 
