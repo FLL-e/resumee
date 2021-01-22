@@ -25,11 +25,11 @@ Motors involved:
 
 | Sensors | N |
 | :-----: | :---:
-| Temperature |  6
-| Flow | 2
-| Humidity | 4
-| Pressure | 6
-| Fluid level | 2
+| Temperature | 6 | 
+| Flow | 2 |
+| Humidity | 4 |
+| Pressure | 6 |
+| Fluid level | 2 |
 
 The project was developed using Arduino platform to increase accessibility and ease of modification for the mechanical department.
 
