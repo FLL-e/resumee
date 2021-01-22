@@ -24,7 +24,7 @@ Motors involved:
 - Spray pumps. They control the flow of water that is throwed to the heat exchanger pipes lines and with evaporation extrat the heat from the target fluid
 
 | Sensors | N |
-| - | -
+| :-----: | :---:
 | Temperature |  6
 | Flow | 2
 | Humidity | 4
