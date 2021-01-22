@@ -15,16 +15,16 @@ I worked in a pilot project to monitor electricity distribution, using small wir
 
 I learn about the commercial relation consultory-client, from the preliminary meetings to the end of the project, how to manage documentation and tasks, presentation to client... and visit some cool places that normally you cant access, like this distribution subestations: 
 
-![SEmata](https://fll-e.github.io/resumee/assets/images/SEmata.jpg){: .align-center}
+![SEmata](/resumee/assets/images/SEmata.jpg){: .align-center}
 
-![SEmata2](https://fll-e.github.io/resumee/assets/images/seMata2.jpg){: .align-center}
+![SEmata2](/resumee/assets/images/seMata2.jpg){: .align-center}
 
 
 Mostly of this time **I was working in 3 projects simultaneously**, but I was having fun with those litte things...
 
-![disruptiveTechnologies](https://fll-e.github.io/resumee/assets/images/sensor.jpg){: .align-center} 
+![disruptiveTechnologies](/resumee/assets/images/sensor.jpg){: .align-center} 
 
-![distributionCeldCable](https://fll-e.github.io/resumee/assets/images/cable.jpg){: .align-center}
+![distributionCeldCable](/resumee/assets/images/cable.jpg){: .align-center}
 
 
 
