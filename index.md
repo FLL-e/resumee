@@ -8,14 +8,14 @@ header:
 ---
 Hello, **welcome to my resumee!**
 
-<p href="#" class="notice notice--warning">Notice this site is still being developed (last update 20/01/21)</p>
+<p href="#" class="notice notice--warning">Notice this site is still being developed (last update 22/01/21)</p>
 
 
 Below you can see my professional working experience. In the page [about](about/) you can find more info about my education and skills, and in [projects](posts/) you can find some work I have done (professional and personal) 
 
 Don't hesitate on contacting me! _BTW: You can also download my CV in .pdf_
 
-[Contact](https://www.linkedin.com/in/francisco-luque-luque/){: .btn .btn--info} [Download](https://www.dropbox.com/s/s2i1vgbu53w7xav/202011_CV_Francisco_Luque_general_eng.pdf?dl=0){: .btn .btn--success}
+[Contact](https://www.linkedin.com/in/francisco-luque-luque/){: .btn .btn--info} [Download](assets/downloads/202011_CV_Francisco_Luque_general_eng.pdf){: .btn .btn--success}
 
 # Recurrent skills I use in my job
 - Agile hardware development in PCB design (Altium)
