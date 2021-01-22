@@ -33,6 +33,6 @@ I'm an industrial electronic engineer and, as electronic, I like hardware! But s
 # That's is it _for now_
 Hope you enjoy, feel free to reach me to share synergies!
 
-![greetings](https://fll-e.github.io/resumee/assets/images/regards_FLL.jpg)
+![greetings](https://fll-e.github.io/resumee/assets/images/regards_FLL.jpg){: .align-center}
 
 
