@@ -24,13 +24,13 @@ Motors involved:
 - Spray pumps. They control the flow of water that is throwed to the heat exchanger pipes lines and with evaporation extrat the heat from the target fluid
 
 
-| Sensors     | N |
-| -----------:|:-:|
-| Temperature | 6 |
-| Flow        | 2 |
-| Humidity    | 4 |
-| Pressure    | 6 |
-| Fluid level | 2 |
+| N | Sensors     |
+|:-:| :-----------|
+| 6 | Temperature |
+| 2 | Flow        |
+| 4 | Humidity    |
+| 6 | Pressure    |
+| 2 | Fluid level |
 
 
 The project was developed using Arduino platform to increase accessibility and ease of modification for the mechanical department.
