@@ -43,4 +43,4 @@ R&D internship inside EILIS department, where I worked in 3 projects playing a d
 Final degree project in collab with mechanical department. Power and control box for an experimental cooling tower [-->](/resumee/work/cooling-tower-control/)
 
 
-<p href="#" class="notice notice--info"> Notice this site doesn't use any cookies, so you didn't get any disturbing pop-up to accept them. I have in mind a post telling you how to avoid those pop-ups and auto-reject cookies </p>
+<p href="#" class="notice notice--info"> I don't like cookies, that is way you didn't get any disturbing pop-up to accept them, bcause there is none here! </p>
