@@ -7,7 +7,6 @@ tags:
   - TFG
   - Arduino
 header:
-  overlay_image: /assets/images/tfg_placas.jpg
   teaser: /assets/images/control_box.png
 ---
 
@@ -35,6 +34,8 @@ Motors involved:
 
 
 The project was developed using Arduino platform to increase accessibility and ease of modification for the mechanical department.
+
+![connections diagram](/resumee/assets/images/tfg_placas.jpg){: .align-center}
 
 Here you can see the power box I did to control the motor. It looks a bit messy but there was no budget nor time for PCB...
 
