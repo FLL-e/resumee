@@ -81,6 +81,10 @@ footer:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/FLL-e"
 
+feed:
+  tags: true
+  
+
 defaults:
   # _posts
   - scope:
